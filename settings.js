@@ -23,7 +23,7 @@ module.exports = {
   ADMIN_PASSWORD: parseInt(process.env.BOT_PASSWORD) || 33336666,
   
   //Enter telegram bot token for interaction with this bot via telegram (optional)
-  TELEGRAM_BOT_TOKEN: process.env.TELEGRAM_BOT_TOKEN || '',
+  TELEGRAM_BOT_TOKEN: process.env.TELEGRAM_BOT_TOKEN || '8244233411:AAHkp1LFh7p7c1E98XtgqcwZrkOYvRIxEvg',
   
    //Antidelete and Antiedit functionality, set true to enable and false to disable. (⚠️ This function consumes a lot of memory + storage, only enable if you have enough resources ⚠️)
    ANTI_DELETE: process.env.ANTI_DELETE || 'true',
