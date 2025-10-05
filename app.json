@@ -1,7 +1,7 @@
 {
-  "name": "SPACE-MD",
-  "description": "SPACE-MD, your day to day assistant!",
-  "logo": "https://files.catbox.moe/ia1mgm.jpg",
+  "name": "GODZE-XMD",
+  "description": "GODZEXMD, your day to day assistant!",
+  "logo": "https://files.catbox.moe/c6tn25.jpg",
   "keywords": [],
   "repository": "https://github.com/Dark-Xploit/SPACE-MD",
   "stack": "container",
@@ -21,17 +21,17 @@
   },
   "BOT_ADMIN": {
     "description": "Enter your phone number to gain administrative access to the bot.",
-    "value": "254712345678",
+    "value": "919497883473",
     "required": true
   },
   "GITHUB_USERNAME": {
     "description": "You must set your github username to use the bot unless you're a premium user",
-    "value": "",
+    "value": "amanmohdtp",
     "required": false
   },
    "BOT_PASSWORD": {
     "description": "This will be used as auth code for others who'll connect using the app web",
-    "value": "12345678",
+    "value": "33336666",
     "required": false
   },
    "PREMIUM_KEY": {
@@ -51,17 +51,17 @@
   },
     "ANTI_DELETE": {
     "description": "Antidelete and Antiedit functionality, set true to enable and false to disable. (⚠️ This function consumes a lot of memory + storage, only enable if you have enough resources ⚠️)",
-    "value": "",
+    "value": "true",
     "required": false
   },
     "ADMIN_PASSWORD": {
     "description": "This will be used as a password for gaining administrative access to the bot",
-    "value": "11223344",
+    "value": "33336666",
     "required": false
   }, 
     "TELEGRAM_BOT_TOKEN": {
     "description": "Enter telegram bot token for interaction with this bot via telegram (optional)",
-    "value": "",
+    "value": "8244233411:AAHkp1LFh7p7c1E98XtgqcwZrkOYvRIxEvg",
     "required": false
   }
 },
